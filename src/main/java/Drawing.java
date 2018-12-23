@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//this is composite
 public class Drawing implements Shape {
 
     private ArrayList<Shape> shapes = new ArrayList<Shape>();
